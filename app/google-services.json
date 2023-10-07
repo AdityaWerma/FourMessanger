@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230885848584",
+    "project_id": "fourmessanger-e6933",
+    "storage_bucket": "fourmessanger-e6933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230885848584:android:2d62066b9b8c92f87903bd",
+        "android_client_info": {
+          "package_name": "com.akv.fourmessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230885848584-t85bp5t1abqgukgqjvfekfoh4hmd7dc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD0QEtRIG1lPuckYTw96vKJjbnvTOaRhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230885848584-t85bp5t1abqgukgqjvfekfoh4hmd7dc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
